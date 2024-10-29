@@ -1,0 +1,1642 @@
+{
+    "data": [
+        {
+            "title": "Group 886",
+            "paragraphs": [
+                {
+                    "context": "I would recommend this laptop to anyone looking to get a new laptop who is willing to spend a little more money to get great quality!",
+                    "qas": [
+                        {
+                            "answers": [
+                                {
+                                    "text": " Aspect: quality, sentiment: 1"
+                                }
+                            ],
+                            "question": "Can you find out the aspect sentiment pairs?"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "title": "Group 868",
+            "paragraphs": [
+                {
+                    "context": "The overall build quality of the unit is excellent and she'd recommend it to anyone else looking for a netbook.",
+                    "qas": [
+                        {
+                            "answers": [
+                                {
+                                    "text": " Aspect: build quality, sentiment: 1"
+                                }
+                            ],
+                            "question": "Can you find out the aspect sentiment pairs?"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "title": "Group 812",
+            "paragraphs": [
+                {
+                    "context": "company provides UPS shipping, fast, great!",
+                    "qas": [
+                        {
+                            "answers": [
+                                {
+                                    "text": " Aspect: shipping, sentiment: 1"
+                                }
+                            ],
+                            "question": "Can you find out the aspect sentiment pairs?"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "title": "Group 117",
+            "paragraphs": [
+                {
+                    "context": "Mine came at $1,700 w/o a DVD burner (!).",
+                    "qas": [
+                        {
+                            "answers": [
+                                {
+                                    "text": " Aspect: DVD burner, sentiment: -1"
+                                }
+                            ],
+                            "question": "Can you find out the aspect sentiment pairs?"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "title": "Group 272",
+            "paragraphs": [
+                {
+                    "context": "Not easy to carry.",
+                    "qas": [
+                        {
+                            "answers": [
+                                {
+                                    "text": " Aspect: carry, sentiment: -1"
+                                }
+                            ],
+                            "question": "Can you find out the aspect sentiment pairs?"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "title": "Group 315",
+            "paragraphs": [
+                {
+                    "context": "First the screen goes completely out.",
+                    "qas": [
+                        {
+                            "answers": [
+                                {
+                                    "text": " Aspect: screen, sentiment: -1"
+                                }
+                            ],
+                            "question": "Can you find out the aspect sentiment pairs?"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "title": "Group 754",
+            "paragraphs": [
+                {
+                    "context": "The keyboard has a wonderful nature feel.",
+                    "qas": [
+                        {
+                            "answers": [
+                                {
+                                    "text": " Aspect: keyboard, sentiment: 1"
+                                }
+                            ],
+                            "question": "Can you find out the aspect sentiment pairs?"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "title": "Group 18",
+            "paragraphs": [
+                {
+                    "context": "The reality was, it heated up very quickly, and took way too long to do simple things, like opening my Documents folder.",
+                    "qas": [
+                        {
+                            "answers": [
+                                {
+                                    "text": " Aspect: opening my Documents folder, sentiment: -1"
+                                }
+                            ],
+                            "question": "Can you find out the aspect sentiment pairs?"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "title": "Group 569",
+            "paragraphs": [
+                {
+                    "context": "Pairing it with an iPhone is a pure pleasure - talk about painless syncing - used to take me forever - now it's a snap.",
+                    "qas": [
+                        {
+                            "answers": [
+                                {
+                                    "text": " Aspect: syncing, sentiment: 1"
+                                }
+                            ],
+                            "question": "Can you find out the aspect sentiment pairs?"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "title": "Group 757",
+            "paragraphs": [
+                {
+                    "context": "The unibody design is edgy and durable.",
+                    "qas": [
+                        {
+                            "answers": [
+                                {
+                                    "text": " Aspect: unibody design, sentiment: 1"
+                                }
+                            ],
+                            "question": "Can you find out the aspect sentiment pairs?"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "title": "Group 731",
+            "paragraphs": [
+                {
+                    "context": "Connecting to my wireless router via built-in wireless took no time at all.",
+                    "qas": [
+                        {
+                            "answers": [
+                                {
+                                    "text": " Aspect: built-in wireless, sentiment: 1"
+                                }
+                            ],
+                            "question": "Can you find out the aspect sentiment pairs?"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "title": "Group 298",
+            "paragraphs": [
+                {
+                    "context": "  Also, I have had alot of trouble with the shift key to go to other lines.",
+                    "qas": [
+                        {
+                            "answers": [
+                                {
+                                    "text": " Aspect: shift key, sentiment: -1"
+                                }
+                            ],
+                            "question": "Can you find out the aspect sentiment pairs?"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "title": "Group 269",
+            "paragraphs": [
+                {
+                    "context": "Another issue I have with it is the battery.",
+                    "qas": [
+                        {
+                            "answers": [
+                                {
+                                    "text": " Aspect: battery, sentiment: -1"
+                                }
+                            ],
+                            "question": "Can you find out the aspect sentiment pairs?"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "title": "Group 152",
+            "paragraphs": [
+                {
+                    "context": "After 20-30 min the screen of the notebook switched off.",
+                    "qas": [
+                        {
+                            "answers": [
+                                {
+                                    "text": " Aspect: screen, sentiment: -1"
+                                }
+                            ],
+                            "question": "Can you find out the aspect sentiment pairs?"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "title": "Group 606",
+            "paragraphs": [
+                {
+                    "context": "only good thing is the graphics quality.",
+                    "qas": [
+                        {
+                            "answers": [
+                                {
+                                    "text": " Aspect: graphics quality, sentiment: 1"
+                                }
+                            ],
+                            "question": "Can you find out the aspect sentiment pairs?"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "title": "Group 663",
+            "paragraphs": [
+                {
+                    "context": "It's a great product for a great price!",
+                    "qas": [
+                        {
+                            "answers": [
+                                {
+                                    "text": " Aspect: price, sentiment: 1"
+                                }
+                            ],
+                            "question": "Can you find out the aspect sentiment pairs?"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "title": "Group 849",
+            "paragraphs": [
+                {
+                    "context": "I would definitely reccomend this if you are in the market for an easy to use, stylish, fun, awesome computer.",
+                    "qas": [
+                        {
+                            "answers": [
+                                {
+                                    "text": " Aspect: use, sentiment: 1"
+                                }
+                            ],
+                            "question": "Can you find out the aspect sentiment pairs?"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "title": "Group 787",
+            "paragraphs": [
+                {
+                    "context": "Not too much ”junk” software to remove.",
+                    "qas": [
+                        {
+                            "answers": [
+                                {
+                                    "text": " Aspect: software, sentiment: 1"
+                                }
+                            ],
+                            "question": "Can you find out the aspect sentiment pairs?"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "title": "Group 430",
+            "paragraphs": [
+                {
+                    "context": "  Worse, for the price I could get a *netbook* that outperforms this machine.",
+                    "qas": [
+                        {
+                            "answers": [
+                                {
+                                    "text": " Aspect: price, sentiment: -1"
+                                }
+                            ],
+                            "question": "Can you find out the aspect sentiment pairs?"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "title": "Group 687",
+            "paragraphs": [
+                {
+                    "context": "It is very well built.",
+                    "qas": [
+                        {
+                            "answers": [
+                                {
+                                    "text": " Aspect: built, sentiment: 1"
+                                }
+                            ],
+                            "question": "Can you find out the aspect sentiment pairs?"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "title": "Group 735",
+            "paragraphs": [
+                {
+                    "context": "Registration/1st use is easy.",
+                    "qas": [
+                        {
+                            "answers": [
+                                {
+                                    "text": " Aspect: use, sentiment: 1"
+                                }
+                            ],
+                            "question": "Can you find out the aspect sentiment pairs?"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "title": "Group 728",
+            "paragraphs": [
+                {
+                    "context": "My last computer, a Toshiba, cost only $400, and worked like a charm for many years.",
+                    "qas": [
+                        {
+                            "answers": [
+                                {
+                                    "text": " Aspect: cost, sentiment: 1"
+                                }
+                            ],
+                            "question": "Can you find out the aspect sentiment pairs?"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "title": "Group 75",
+            "paragraphs": [
+                {
+                    "context": "With today's company fighting over marketshare, its a shame that ASUS can get away with the inept staff answering thephone.",
+                    "qas": [
+                        {
+                            "answers": [
+                                {
+                                    "text": " Aspect: staff, sentiment: -1"
+                                }
+                            ],
+                            "question": "Can you find out the aspect sentiment pairs?"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "title": "Group 737",
+            "paragraphs": [
+                {
+                    "context": "i am a huge computer person i love anykind of computer that works well, but when i got this one i was so happy with the way it works and how it runs its amazing.",
+                    "qas": [
+                        {
+                            "answers": [
+                                {
+                                    "text": " Aspect: runs, sentiment: 1"
+                                }
+                            ],
+                            "question": "Can you find out the aspect sentiment pairs?"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "title": "Group 398",
+            "paragraphs": [
+                {
+                    "context": "4) Laptop still did not work, blue screen within a week...",
+                    "qas": [
+                        {
+                            "answers": [
+                                {
+                                    "text": " Aspect: work, sentiment: -1"
+                                }
+                            ],
+                            "question": "Can you find out the aspect sentiment pairs?"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "title": "Group 460",
+            "paragraphs": [
+                {
+                    "context": "not using wired lan not sure what thats about.",
+                    "qas": [
+                        {
+                            "answers": [
+                                {
+                                    "text": " Aspect: wired lan, sentiment: 0"
+                                }
+                            ],
+                            "question": "Can you find out the aspect sentiment pairs?"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "title": "Group 4",
+            "paragraphs": [
+                {
+                    "context": "After paying several hundred dollars for this service, it is frustrating that you cannot get help after hours.",
+                    "qas": [
+                        {
+                            "answers": [
+                                {
+                                    "text": " Aspect: service, sentiment: -1"
+                                }
+                            ],
+                            "question": "Can you find out the aspect sentiment pairs?"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "title": "Group 892",
+            "paragraphs": [
+                {
+                    "context": "Price and purpose is awesome!",
+                    "qas": [
+                        {
+                            "answers": [
+                                {
+                                    "text": " Aspect: Price, sentiment: 1"
+                                }
+                            ],
+                            "question": "Can you find out the aspect sentiment pairs?"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "title": "Group 199",
+            "paragraphs": [
+                {
+                    "context": "The computer continued to give me issues and in Late June it completely died again and I tried to call Acer again to get it fixed and they refused to help me, they said my warrenty was up and hung up on me.",
+                    "qas": [
+                        {
+                            "answers": [
+                                {
+                                    "text": " Aspect: warrenty, sentiment: -1"
+                                }
+                            ],
+                            "question": "Can you find out the aspect sentiment pairs?"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "title": "Group 586",
+            "paragraphs": [
+                {
+                    "context": "lots of preloaded software.",
+                    "qas": [
+                        {
+                            "answers": [
+                                {
+                                    "text": " Aspect: preloaded software, sentiment: 1"
+                                }
+                            ],
+                            "question": "Can you find out the aspect sentiment pairs?"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "title": "Group 466",
+            "paragraphs": [
+                {
+                    "context": "I bought this notebook and only had it for 3 months If it is overload with updates the BOOT MGR.",
+                    "qas": [
+                        {
+                            "answers": [
+                                {
+                                    "text": " Aspect: BOOT MGR, sentiment: 0"
+                                }
+                            ],
+                            "question": "Can you find out the aspect sentiment pairs?"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "title": "Group 264",
+            "paragraphs": [
+                {
+                    "context": "Eventually my battery wouldn't charge, so unless I had it plugged in it wouldn't even power on.",
+                    "qas": [
+                        {
+                            "answers": [
+                                {
+                                    "text": " Aspect: battery, sentiment: -1"
+                                }
+                            ],
+                            "question": "Can you find out the aspect sentiment pairs?"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "title": "Group 390",
+            "paragraphs": [
+                {
+                    "context": "The repairs were made quickly though I must say, however the second time they shipped it to the incorrect address and it took nearly a week for them to get it to me.",
+                    "qas": [
+                        {
+                            "answers": [
+                                {
+                                    "text": " Aspect: shipped, sentiment: -1"
+                                }
+                            ],
+                            "question": "Can you find out the aspect sentiment pairs?"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "title": "Group 259",
+            "paragraphs": [
+                {
+                    "context": "One drawback I noticed was sound quality via USB.",
+                    "qas": [
+                        {
+                            "answers": [
+                                {
+                                    "text": " Aspect: sound quality via USB, sentiment: -1"
+                                }
+                            ],
+                            "question": "Can you find out the aspect sentiment pairs?"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "title": "Group 295",
+            "paragraphs": [
+                {
+                    "context": "In early May I got it back and this time I only had it back for 1 day before it had a NEW issue so it was sent back in for the 6th time they ”expedited” the repairs so I was only supposed to have to be without it for 3 days and it was supposed to be fixed, by a ”Senior Tech”.",
+                    "qas": [
+                        {
+                            "answers": [
+                                {
+                                    "text": " Aspect: Senior Tech, sentiment: -1"
+                                }
+                            ],
+                            "question": "Can you find out the aspect sentiment pairs?"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "title": "Group 252",
+            "paragraphs": [
+                {
+                    "context": "Apparently there is a manufacturing defect, something with the amount of thermal paste.",
+                    "qas": [
+                        {
+                            "answers": [
+                                {
+                                    "text": " Aspect: thermal paste, sentiment: -1"
+                                }
+                            ],
+                            "question": "Can you find out the aspect sentiment pairs?"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "title": "Group 135",
+            "paragraphs": [
+                {
+                    "context": "     First it burned or fused the power adapter plug.",
+                    "qas": [
+                        {
+                            "answers": [
+                                {
+                                    "text": " Aspect: power adapter plug, sentiment: -1"
+                                }
+                            ],
+                            "question": "Can you find out the aspect sentiment pairs?"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "title": "Group 543",
+            "paragraphs": [
+                {
+                    "context": "So I called Compaq, and after being on the phone for 3 hours, i finally got a replacement which I shouldn't have had a problem getting since it was under warranty.",
+                    "qas": [
+                        {
+                            "answers": [
+                                {
+                                    "text": " Aspect: warranty, sentiment: 0"
+                                }
+                            ],
+                            "question": "Can you find out the aspect sentiment pairs?"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "title": "Group 15",
+            "paragraphs": [
+                {
+                    "context": "The system it comes with does not work properly, so when trying to fix the problems with it it started not working at all.",
+                    "qas": [
+                        {
+                            "answers": [
+                                {
+                                    "text": " Aspect: system, sentiment: -1"
+                                }
+                            ],
+                            "question": "Can you find out the aspect sentiment pairs?"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "title": "Group 226",
+            "paragraphs": [
+                {
+                    "context": "The So called laptop Runs to Slow and I hate it!",
+                    "qas": [
+                        {
+                            "answers": [
+                                {
+                                    "text": " Aspect: Runs, sentiment: -1"
+                                }
+                            ],
+                            "question": "Can you find out the aspect sentiment pairs?"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "title": "Group 538",
+            "paragraphs": [
+                {
+                    "context": "If you're looking for something to fly through those massive spreadsheets or play a graphics-intensive game, you'd be better off getting a machine aimed at that segment of the market.",
+                    "qas": [
+                        {
+                            "answers": [
+                                {
+                                    "text": " Aspect: game, sentiment: 0"
+                                }
+                            ],
+                            "question": "Can you find out the aspect sentiment pairs?"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "title": "Group 341",
+            "paragraphs": [
+                {
+                    "context": "Yes, I thought the expese was a little much, but I now realize you get what you pay for.",
+                    "qas": [
+                        {
+                            "answers": [
+                                {
+                                    "text": " Aspect: expese, sentiment: -1"
+                                }
+                            ],
+                            "question": "Can you find out the aspect sentiment pairs?"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "title": "Group 73",
+            "paragraphs": [
+                {
+                    "context": "Sometimes you really have to tap the pad to get it to worki",
+                    "qas": [
+                        {
+                            "answers": [
+                                {
+                                    "text": " Aspect: pad, sentiment: -1"
+                                }
+                            ],
+                            "question": "Can you find out the aspect sentiment pairs?"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "title": "Group 588",
+            "paragraphs": [
+                {
+                    "context": "Acer was no help and Garmin could not determine the problem(after spending about 2 hours with me), so I returned it and purchased a Toshiba R700 that seems even nicer and I was able to load all of my software with no problem.",
+                    "qas": [
+                        {
+                            "answers": [
+                                {
+                                    "text": " Aspect: software, sentiment: 1"
+                                }
+                            ],
+                            "question": "Can you find out the aspect sentiment pairs?"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "title": "Group 700",
+            "paragraphs": [
+                {
+                    "context": "The pictures are clear as can be.",
+                    "qas": [
+                        {
+                            "answers": [
+                                {
+                                    "text": " Aspect: pictures, sentiment: 1"
+                                }
+                            ],
+                            "question": "Can you find out the aspect sentiment pairs?"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "title": "Group 361",
+            "paragraphs": [
+                {
+                    "context": "I have never really been big on downloading anything so I wasn't too worried about getting a virus, plus I thought I was protected by Norton.",
+                    "qas": [
+                        {
+                            "answers": [
+                                {
+                                    "text": " Aspect: Norton, sentiment: -1"
+                                }
+                            ],
+                            "question": "Can you find out the aspect sentiment pairs?"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "title": "Group 511",
+            "paragraphs": [
+                {
+                    "context": "Only issue is that it is a little slow, and I'm fixing that by adding more RAM.",
+                    "qas": [
+                        {
+                            "answers": [
+                                {
+                                    "text": " Aspect: RAM, sentiment: 0"
+                                }
+                            ],
+                            "question": "Can you find out the aspect sentiment pairs?"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "title": "Group 191",
+            "paragraphs": [
+                {
+                    "context": "This just keeps having it's hard drive replaced!",
+                    "qas": [
+                        {
+                            "answers": [
+                                {
+                                    "text": " Aspect: hard drive, sentiment: -1"
+                                }
+                            ],
+                            "question": "Can you find out the aspect sentiment pairs?"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "title": "Group 89",
+            "paragraphs": [
+                {
+                    "context": "Now,,,,,my monitor has been acting up for about 2 months.",
+                    "qas": [
+                        {
+                            "answers": [
+                                {
+                                    "text": " Aspect: monitor, sentiment: -1"
+                                }
+                            ],
+                            "question": "Can you find out the aspect sentiment pairs?"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "title": "Group 765",
+            "paragraphs": [
+                {
+                    "context": "Also, macbooks come with much more features which are so cool!",
+                    "qas": [
+                        {
+                            "answers": [
+                                {
+                                    "text": " Aspect: features, sentiment: 1"
+                                }
+                            ],
+                            "question": "Can you find out the aspect sentiment pairs?"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "title": "Group 280",
+            "paragraphs": [
+                {
+                    "context": "Again- windows based machines were not giving me anything to work with!",
+                    "qas": [
+                        {
+                            "answers": [
+                                {
+                                    "text": " Aspect: windows, sentiment: -1"
+                                }
+                            ],
+                            "question": "Can you find out the aspect sentiment pairs?"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "title": "Group 210",
+            "paragraphs": [
+                {
+                    "context": "  However the frozen screens kept happening.",
+                    "qas": [
+                        {
+                            "answers": [
+                                {
+                                    "text": " Aspect: screens, sentiment: -1"
+                                }
+                            ],
+                            "question": "Can you find out the aspect sentiment pairs?"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "title": "Group 358",
+            "paragraphs": [
+                {
+                    "context": "There are no gold key numbers too intall programs, you must use the serial numbers that it does not accept and then things are limited as far a working because they are only good for a short time.",
+                    "qas": [
+                        {
+                            "answers": [
+                                {
+                                    "text": " Aspect: programs, sentiment: -1"
+                                }
+                            ],
+                            "question": "Can you find out the aspect sentiment pairs?"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "title": "Group 815",
+            "paragraphs": [
+                {
+                    "context": "Good price.",
+                    "qas": [
+                        {
+                            "answers": [
+                                {
+                                    "text": " Aspect: price, sentiment: 1"
+                                }
+                            ],
+                            "question": "Can you find out the aspect sentiment pairs?"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "title": "Group 832",
+            "paragraphs": [
+                {
+                    "context": "Ease of use is just one of the benefits I love about my Mac.",
+                    "qas": [
+                        {
+                            "answers": [
+                                {
+                                    "text": " Aspect: use, sentiment: 1"
+                                }
+                            ],
+                            "question": "Can you find out the aspect sentiment pairs?"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "title": "Group 655",
+            "paragraphs": [
+                {
+                    "context": "If you don't feel comfortable doing it yourself, just buy the case and be happy, plus it looks nice, I bought the white one from Best Buy.",
+                    "qas": [
+                        {
+                            "answers": [
+                                {
+                                    "text": " Aspect: case, sentiment: 1"
+                                }
+                            ],
+                            "question": "Can you find out the aspect sentiment pairs?"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "title": "Group 773",
+            "paragraphs": [
+                {
+                    "context": "It also came with a built it web cam which is great because I can see an communicate with my family members back home.",
+                    "qas": [
+                        {
+                            "answers": [
+                                {
+                                    "text": " Aspect: built it web cam, sentiment: 1"
+                                }
+                            ],
+                            "question": "Can you find out the aspect sentiment pairs?"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "title": "Group 276",
+            "paragraphs": [
+                {
+                    "context": "Now mainboard is broken, have to wait for a new one.",
+                    "qas": [
+                        {
+                            "answers": [
+                                {
+                                    "text": " Aspect: mainboard, sentiment: -1"
+                                }
+                            ],
+                            "question": "Can you find out the aspect sentiment pairs?"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "title": "Group 53",
+            "paragraphs": [
+                {
+                    "context": "But Sony said we could send it back and be charged for adding the bluetooth an additional seventy something dollars.",
+                    "qas": [
+                        {
+                            "answers": [
+                                {
+                                    "text": " Aspect: adding the bluetooth, sentiment: -1"
+                                }
+                            ],
+                            "question": "Can you find out the aspect sentiment pairs?"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "title": "Group 260",
+            "paragraphs": [
+                {
+                    "context": "I have had another Mac, but it got slow due to an older operating system.",
+                    "qas": [
+                        {
+                            "answers": [
+                                {
+                                    "text": " Aspect: operating system, sentiment: -1"
+                                }
+                            ],
+                            "question": "Can you find out the aspect sentiment pairs?"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "title": "Group 204",
+            "paragraphs": [
+                {
+                    "context": "  since then i have had minor problems with slow operation.",
+                    "qas": [
+                        {
+                            "answers": [
+                                {
+                                    "text": " Aspect: operation, sentiment: -1"
+                                }
+                            ],
+                            "question": "Can you find out the aspect sentiment pairs?"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "title": "Group 766",
+            "paragraphs": [
+                {
+                    "context": "They have developed excellent proprietary software for editing video and pictures and I'm looking forward to utilizing these tools on the regular.",
+                    "qas": [
+                        {
+                            "answers": [
+                                {
+                                    "text": " Aspect: proprietary software, sentiment: 1"
+                                }
+                            ],
+                            "question": "Can you find out the aspect sentiment pairs?"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "title": "Group 850",
+            "paragraphs": [
+                {
+                    "context": "I upgraded it's RAM to 2GB, I am very happy with it.",
+                    "qas": [
+                        {
+                            "answers": [
+                                {
+                                    "text": " Aspect: RAM, sentiment: 1"
+                                }
+                            ],
+                            "question": "Can you find out the aspect sentiment pairs?"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "title": "Group 561",
+            "paragraphs": [
+                {
+                    "context": "With notes saying they replaced the hard drive.",
+                    "qas": [
+                        {
+                            "answers": [
+                                {
+                                    "text": " Aspect: hard drive, sentiment: 0"
+                                }
+                            ],
+                            "question": "Can you find out the aspect sentiment pairs?"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "title": "Group 96",
+            "paragraphs": [
+                {
+                    "context": "  My opinion of Sony has been dropping as fast as the stock market, given their horrible support, but this machine just caused another plunge.",
+                    "qas": [
+                        {
+                            "answers": [
+                                {
+                                    "text": " Aspect: support, sentiment: -1"
+                                }
+                            ],
+                            "question": "Can you find out the aspect sentiment pairs?"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "title": "Group 865",
+            "paragraphs": [
+                {
+                    "context": "Applications open in seconds and there are no lags, hiccups or awkward moments when you wonder whether your computer is out for tea.",
+                    "qas": [
+                        {
+                            "answers": [
+                                {
+                                    "text": " Aspect: Applications, sentiment: 1"
+                                }
+                            ],
+                            "question": "Can you find out the aspect sentiment pairs?"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "title": "Group 637",
+            "paragraphs": [
+                {
+                    "context": "Lightweight and the screen is beautiful!",
+                    "qas": [
+                        {
+                            "answers": [
+                                {
+                                    "text": " Aspect: screen, sentiment: 1"
+                                }
+                            ],
+                            "question": "Can you find out the aspect sentiment pairs?"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "title": "Group 52",
+            "paragraphs": [
+                {
+                    "context": "Well I spilled something on it and they replaced it with this model, which gets hot and the battery doesn't make it through 1 DVD.",
+                    "qas": [
+                        {
+                            "answers": [
+                                {
+                                    "text": " Aspect: battery, sentiment: -1"
+                                }
+                            ],
+                            "question": "Can you find out the aspect sentiment pairs?"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "title": "Group 208",
+            "paragraphs": [
+                {
+                    "context": "I took off a star because the machine has a lot of junk software on it.",
+                    "qas": [
+                        {
+                            "answers": [
+                                {
+                                    "text": " Aspect: software, sentiment: -1"
+                                }
+                            ],
+                            "question": "Can you find out the aspect sentiment pairs?"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "title": "Group 734",
+            "paragraphs": [
+                {
+                    "context": "The macbooks are small enough to be very portable yet hold tons of information and performance.",
+                    "qas": [
+                        {
+                            "answers": [
+                                {
+                                    "text": " Aspect: performance, sentiment: 1"
+                                }
+                            ],
+                            "question": "Can you find out the aspect sentiment pairs?"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "title": "Group 571",
+            "paragraphs": [
+                {
+                    "context": "I was looking for a mac which is portable and has all the features that I was looking for.",
+                    "qas": [
+                        {
+                            "answers": [
+                                {
+                                    "text": " Aspect: features, sentiment: 1"
+                                }
+                            ],
+                            "question": "Can you find out the aspect sentiment pairs?"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "title": "Group 106",
+            "paragraphs": [
+                {
+                    "context": "The only thing that I have, is the key broad is a little dark to see the letters, would help if it was a little lighter then it is.",
+                    "qas": [
+                        {
+                            "answers": [
+                                {
+                                    "text": " Aspect: key broad, sentiment: -1"
+                                }
+                            ],
+                            "question": "Can you find out the aspect sentiment pairs?"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "title": "Group 902",
+            "paragraphs": [
+                {
+                    "context": "The Toshiba Satellite has been more than I expected for the price.",
+                    "qas": [
+                        {
+                            "answers": [
+                                {
+                                    "text": " Aspect: price, sentiment: 1"
+                                }
+                            ],
+                            "question": "Can you find out the aspect sentiment pairs?"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "title": "Group 40",
+            "paragraphs": [
+                {
+                    "context": "The tech store I purchased this from sent it back,,,,,eventually I got a new or repaired machine approximately 3 weeks later.",
+                    "qas": [
+                        {
+                            "answers": [
+                                {
+                                    "text": " Aspect: tech store, sentiment: -1"
+                                }
+                            ],
+                            "question": "Can you find out the aspect sentiment pairs?"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "title": "Group 137",
+            "paragraphs": [
+                {
+                    "context": "I bought this laptop and found its TAB is not functioning.",
+                    "qas": [
+                        {
+                            "answers": [
+                                {
+                                    "text": " Aspect: TAB, sentiment: -1"
+                                }
+                            ],
+                            "question": "Can you find out the aspect sentiment pairs?"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "title": "Group 869",
+            "paragraphs": [
+                {
+                    "context": "It is fast and i have not had a problem with internet connection or any other problems.",
+                    "qas": [
+                        {
+                            "answers": [
+                                {
+                                    "text": " Aspect: internet connection, sentiment: 1"
+                                }
+                            ],
+                            "question": "Can you find out the aspect sentiment pairs?"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "title": "Group 733",
+            "paragraphs": [
+                {
+                    "context": "For those that care about noise this thing doesn't really make any;",
+                    "qas": [
+                        {
+                            "answers": [
+                                {
+                                    "text": " Aspect: noise, sentiment: 1"
+                                }
+                            ],
+                            "question": "Can you find out the aspect sentiment pairs?"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "title": "Group 505",
+            "paragraphs": [
+                {
+                    "context": "this apple navigates you thru the unexplored world of the internet.",
+                    "qas": [
+                        {
+                            "answers": [
+                                {
+                                    "text": " Aspect: internet, sentiment: 0"
+                                }
+                            ],
+                            "question": "Can you find out the aspect sentiment pairs?"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "title": "Group 51",
+            "paragraphs": [
+                {
+                    "context": "Mac is not made for gaming.",
+                    "qas": [
+                        {
+                            "answers": [
+                                {
+                                    "text": " Aspect: gaming, sentiment: -1"
+                                }
+                            ],
+                            "question": "Can you find out the aspect sentiment pairs?"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "title": "Group 356",
+            "paragraphs": [
+                {
+                    "context": "The Internet Explorer was very slow from the very beginning.",
+                    "qas": [
+                        {
+                            "answers": [
+                                {
+                                    "text": " Aspect: Internet Explorer, sentiment: -1"
+                                }
+                            ],
+                            "question": "Can you find out the aspect sentiment pairs?"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "title": "Group 86",
+            "paragraphs": [
+                {
+                    "context": "then on top of it all their cusromer service center is in the middle east.",
+                    "qas": [
+                        {
+                            "answers": [
+                                {
+                                    "text": " Aspect: cusromer service center, sentiment: -1"
+                                }
+                            ],
+                            "question": "Can you find out the aspect sentiment pairs?"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "title": "Group 861",
+            "paragraphs": [
+                {
+                    "context": "Fast, great visual!",
+                    "qas": [
+                        {
+                            "answers": [
+                                {
+                                    "text": " Aspect: visual, sentiment: 1"
+                                }
+                            ],
+                            "question": "Can you find out the aspect sentiment pairs?"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "title": "Group 139",
+            "paragraphs": [
+                {
+                    "context": "-Called headquarters again, they report that TFT panel is broken, should be fixed by the end of the week (week 3).",
+                    "qas": [
+                        {
+                            "answers": [
+                                {
+                                    "text": " Aspect: TFT panel, sentiment: -1"
+                                }
+                            ],
+                            "question": "Can you find out the aspect sentiment pairs?"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "title": "Group 127",
+            "paragraphs": [
+                {
+                    "context": "  Only a few days after I received the computer back, the screen froze again.",
+                    "qas": [
+                        {
+                            "answers": [
+                                {
+                                    "text": " Aspect: screen, sentiment: -1"
+                                }
+                            ],
+                            "question": "Can you find out the aspect sentiment pairs?"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "title": "Group 220",
+            "paragraphs": [
+                {
+                    "context": "I bought this last week, and the very next day had to return it because it over heated and the touch-mouse stopped responding.",
+                    "qas": [
+                        {
+                            "answers": [
+                                {
+                                    "text": " Aspect: touch-mouse, sentiment: -1"
+                                }
+                            ],
+                            "question": "Can you find out the aspect sentiment pairs?"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "title": "Group 771",
+            "paragraphs": [
+                {
+                    "context": "apple has a reputation and is well known for its easy usage.",
+                    "qas": [
+                        {
+                            "answers": [
+                                {
+                                    "text": " Aspect: usage, sentiment: 1"
+                                }
+                            ],
+                            "question": "Can you find out the aspect sentiment pairs?"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "title": "Group 584",
+            "paragraphs": [
+                {
+                    "context": "It's color is even cool.",
+                    "qas": [
+                        {
+                            "answers": [
+                                {
+                                    "text": " Aspect: color, sentiment: 1"
+                                }
+                            ],
+                            "question": "Can you find out the aspect sentiment pairs?"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "title": "Group 45",
+            "paragraphs": [
+                {
+                    "context": "For the not so good, I got the stock screen - which is VERY glossy.",
+                    "qas": [
+                        {
+                            "answers": [
+                                {
+                                    "text": " Aspect: stock screen, sentiment: -1"
+                                }
+                            ],
+                            "question": "Can you find out the aspect sentiment pairs?"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "title": "Group 255",
+            "paragraphs": [
+                {
+                    "context": "The display is beyond horrible.",
+                    "qas": [
+                        {
+                            "answers": [
+                                {
+                                    "text": " Aspect: display, sentiment: -1"
+                                }
+                            ],
+                            "question": "Can you find out the aspect sentiment pairs?"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "title": "Group 212",
+            "paragraphs": [
+                {
+                    "context": "in 5 months the connect quality got worse and worse.",
+                    "qas": [
+                        {
+                            "answers": [
+                                {
+                                    "text": " Aspect: connect quality, sentiment: -1"
+                                }
+                            ],
+                            "question": "Can you find out the aspect sentiment pairs?"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "title": "Group 103",
+            "paragraphs": [
+                {
+                    "context": "and looks very sexyy:D  really the mac book pro is the best laptop specially for students in college if you are not caring about price.",
+                    "qas": [
+                        {
+                            "answers": [
+                                {
+                                    "text": " Aspect: price, sentiment: -1"
+                                }
+                            ],
+                            "question": "Can you find out the aspect sentiment pairs?"
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}
